@@ -33,7 +33,7 @@ Trial and error
 
 ## Author
 
-- Website - Sara Dykstra (https://github.com/Sara-414/portfolio)
+- Website - Sara Dykstra (https://sara-414.github.io/my-portfolio/)
 - Frontend Mentor - https://www.frontendmentor.io/profile/Sara-414
 
 
