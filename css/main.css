@@ -97,6 +97,12 @@ textarea {
     align-items: center;
     }
 
+    .qr-project {
+      position: fixed;
+      top: 15%;
+      max-width: 360px;
+    }
+
     .content-wrapper {
       background-color: white;
       border-radius: 20px;
